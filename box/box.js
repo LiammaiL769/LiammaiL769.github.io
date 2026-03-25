@@ -1,7 +1,7 @@
 let x = 870;
 let y = 350;
-let speedx = 500;
-let speedy = 200;
+let speedx = 50;
+let speedy = 20;
 let box = document.getElementById("box");
 setInterval(characterMove, 16);
 let ctx = box.getContext("2d");
