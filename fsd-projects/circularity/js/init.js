@@ -90,8 +90,7 @@ var init = function (window) {
     app.addUpdateable(fps);
 
     game.circle = circle;
-    game.
-     = circles;
+    game.circles = circles;
     game.drawCircle = drawCircle;
     game.update = update;
 
